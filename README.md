@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhongliwine
 - 👀 I’m interested in software creatimg
-- 🌱 I’m currently learning roboticd
+- 🌱 I’m currently learning robotics
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me: email me or something.
 - 😄 Pronouns: he/him
